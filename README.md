@@ -1,2 +1,4 @@
-# data-structures-algorithms
-Data Structures and Algorithms
+<p align="center">
+	<!--suppress CheckImageSize -->
+<img src="./logo.png" alt="centaur" width="200" height="200"/>
+</p>
