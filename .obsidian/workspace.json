@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cc67a5699f93e441",
+        "id": "bc0c73623bffbef7",
         "type": "tabs",
         "children": [
           {
-            "id": "bab3c79d133e0d7c",
+            "id": "e181e1404e0f6e13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "design-pattern/单例模式.md",
+                "file": "scattered-jottings/什么是领域驱动设计.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "design-pattern/单例模式.md",
+                "file": "scattered-jottings/什么是领域驱动设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "design-pattern/单例模式.md",
+                "file": "scattered-jottings/什么是领域驱动设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "design-pattern/单例模式.md"
+                "file": "scattered-jottings/什么是领域驱动设计.md"
               }
             }
           }
@@ -146,10 +146,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eea515a856e1c932",
+  "active": "e181e1404e0f6e13",
   "lastOpenFiles": [
+    "README.md",
+    "logo.png",
+    "scattered-jottings/什么是领域驱动设计.md",
+    "scattered-jottings/NIO模型.md",
+    "design-pattern/单例模式.md",
     "design-pattern/委派模式.md",
-    "design-pattern/工厂模式.md",
-    "design-pattern/单例模式.md"
+    "design-pattern/工厂模式.md"
   ]
 }
