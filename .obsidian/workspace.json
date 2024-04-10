@@ -148,12 +148,12 @@
   },
   "active": "e181e1404e0f6e13",
   "lastOpenFiles": [
-    "README.md",
-    "logo.png",
-    "scattered-jottings/什么是领域驱动设计.md",
     "scattered-jottings/NIO模型.md",
-    "design-pattern/单例模式.md",
+    "README.md",
+    "scattered-jottings/什么是领域驱动设计.md",
+    "design-pattern/工厂模式.md",
     "design-pattern/委派模式.md",
-    "design-pattern/工厂模式.md"
+    "design-pattern/单例模式.md",
+    "logo.png"
   ]
 }
