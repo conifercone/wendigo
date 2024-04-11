@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scattered-jottings/什么是领域驱动设计.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scattered-jottings/什么是领域驱动设计.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scattered-jottings/什么是领域驱动设计.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scattered-jottings/什么是领域驱动设计.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "e181e1404e0f6e13",
   "lastOpenFiles": [
+    "scattered-jottings/什么是领域驱动设计.md",
     "scattered-jottings/NIO模型.md",
     "README.md",
-    "scattered-jottings/什么是领域驱动设计.md",
     "design-pattern/工厂模式.md",
     "design-pattern/委派模式.md",
     "design-pattern/单例模式.md",
