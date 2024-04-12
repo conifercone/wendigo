@@ -1,4 +1,4 @@
-<p align="center">
+<p align="wendigo">
 <img src="./logo.png" alt="wendigo" width="200" height="200"/>
 </p>
 
