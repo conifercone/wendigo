@@ -1,5 +1,4 @@
 <p align="center">
-	<!--suppress CheckImageSize -->
 <img src="./logo.png" alt="wendigo" width="200" height="200"/>
 </p>
 
