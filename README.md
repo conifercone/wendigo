@@ -35,9 +35,9 @@
 
 ```text
 wendigo
-│  ├─data-structures -- 数据结构
-│  │─design-pattern -- 设计模式
-│  │─scattered-jottings -- 杂记
+│  ├─ 📂 data-structures -- 数据结构
+│  │─ 📂 design-pattern -- 设计模式
+│  │─ 📂 scattered-jottings -- 杂记
 ```
 
 ## 使用说明
