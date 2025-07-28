@@ -4,19 +4,20 @@
 # yeti
 
 <p>
-  <a target="_blank" href="https://github.com/conifercone/wendigo">
-    <img alt="GitHub License" src="https://img.shields.io/github/license/conifercone/wendigo">
+  <a target="_blank" href="https://github.com/conifercone/yeti">
+    <img alt="GitHub License" src="https://img.shields.io/github/license/conifercone/yeti">
   </a>
-  <a target="_blank" href="https://github.com/conifercone/wendigo">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/conifercone/wendigo">
+  <a target="_blank" href="https://github.com/conifercone/yeti">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/conifercone/yeti">
   </a>
-  <a target="_blank" href="https://github.com/conifercone/wendigo">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/conifercone/wendigo">
+  <a target="_blank" href="https://github.com/conifercone/yeti">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/conifercone/yeti">
   </a>
-  <a target="_blank" href="https://github.com/conifercone/wendigo">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/conifercone/wendigo/main">
+  <a target="_blank" href="https://github.com/conifercone/yeti">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/conifercone/yeti/main">
   </a>
 </p>
+
 
 ## 内容列表
 
@@ -44,7 +45,7 @@ yeti
 
 ## 使用许可
 
-[Apache License 2.0](LICENSE) © <a href="mailto:kaiyu.shan@mumu.baby">kaiyu.shan</a>
+[Apache License 2.0](LICENSE) © <a href="mailto:kaiyu.shan@outlook.com">Kaiyu Shan</a>
 
 
 
